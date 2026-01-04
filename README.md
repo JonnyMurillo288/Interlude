@@ -22,21 +22,7 @@ The project emphasizes scalability, interpretability, and production realism ove
 
 ### Pipeline
 
-Raw Data Dumps (JSON / TAR.ZST/ API)
-        ↓
-ETL + Normalization (Python)
-        ↓
-PostgreSQL Analytical Schema
-        ↓
-Artist Collaboration Graph
-        ↓
-Link Prediction (Logistic Regression)
-        ↓
-Candidate Collaborations
-        ↓
-Conditional VAE
-        ↓
-Synthetic Track Feature Vectors
+[![Pipeline]([image-url](https://github.com/JonnyMurillo288/Interlude/blob/main/counterpoint_pipeline.svg))]
 
 ---
 
