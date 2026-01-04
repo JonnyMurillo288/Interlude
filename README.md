@@ -22,7 +22,7 @@ The project emphasizes scalability, interpretability, and production realism ove
 
 ### Pipeline
 
-[![Pipeline]([image-url](https://github.com/JonnyMurillo288/Interlude/blob/main/counterpoint_pipeline.svg))]
+[![Pipeline](https://github.com/JonnyMurillo288/Interlude/blob/main/counterpoint_pipeline.svg)
 
 ---
 
